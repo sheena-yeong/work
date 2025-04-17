@@ -1,0 +1,3 @@
+Readability is a C program that implements the Coleman-Liau index to estimate the U.S. grade level required to understand a given text. 
+It analyzes the number of letters, words, and sentences to calculate a score, then outputs a corresponding grade level (e.g., "Grade 6"). 
+This was completed as part of Harvard's CS50x curriculum.
