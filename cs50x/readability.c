@@ -11,7 +11,6 @@ float compute_grade(float L, float S);
 
 int main(void)
 {
-    // get user input
     string text = get_string("Text: ");
     int len = strlen(text);
     int wordCount = compute_words(text, len);
