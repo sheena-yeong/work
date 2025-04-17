@@ -1,3 +1,12 @@
+==Readability==
 Readability is a C program that implements the Coleman-Liau index to estimate the U.S. grade level required to understand a given text. 
 It analyzes the number of letters, words, and sentences to calculate a score, then outputs a corresponding grade level (e.g., "Grade 6"). 
 This was completed as part of Harvard's CS50x curriculum.
+
+==Scrabble==
+The program calculates the score of a given word based on Scrabble letter values. 
+It uses arrays to store letter-point mappings and iterates through the word to compute its total score.
+
+==Substitution==
+This program implements a simple substitution cipher that encrypts plaintext by replacing each letter with a corresponding letter from a scrambled alphabet. 
+It includes validation checks to ensure the key is properly formatted and handles edge cases, like repeated letters or non-alphabetic characters.
