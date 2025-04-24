@@ -1,0 +1,14 @@
+== DNA ==
+DNA is a Python program that analyzes a DNA sequence and compares it against a CSV database of individuals to determine a match based on Short Tandem Repeats (STRs). It identifies the longest run of each STR in the sequence and compares the counts to each profile in the database. 
+
+== Sentimental Credit ==
+Sentimental Credit is a Python version of the Credit C program that validates credit card numbers using Luhn’s Algorithm. It identifies the card type (e.g., AMEX, MasterCard, VISA) by analyzing number length and starting digits. 
+
+== Sentimental Hello ==
+Sentimental Hello is a simple Python program that outputs a personalized greeting based on user input. It serves as an introductory exercise in user interaction and basic syntax.
+
+== Sentimental Mario ==
+Sentimental Mario is a Python recreation of the Mario pyramid problem, generating half-pyramids of hashes (#) based on user-specified height. It practices nested loops, input validation, and control flow. 
+
+== Sentimental Readability ==
+Sentimental Readability is a Python program that computes the Coleman-Liau index to estimate the U.S. grade level required to understand a given text. It calculates the number of letters, words, and sentences to determine and output a readability grade.
