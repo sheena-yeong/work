@@ -3,3 +3,6 @@ Recover is a C program that scans a raw memory card image to recover JPEGs that 
 
 == Volume ==
 Volume is a C program that adjusts the volume of an audio file in WAV format by scaling its sample amplitudes. It reads the file’s headers and audio data, applies a user-specified multiplier to each sample, and writes the modified data to a new file. The project involves binary file manipulation and understanding of the WAV file structure. 
+
+== Filter (more) ==
+Filter is a C program that applies various image filters—grayscale, sepia, reflection, and blur—to bitmap images (BMPs). It processes each pixel in a 2D array representing the image, transforming color values according to the selected filter. The project highlights concepts in image processing, nested loops, and manipulation of RGB color data. 
