@@ -1,5 +1,5 @@
-==Credit==
+== Credit ==
 Credit is a C program that uses Luhn’s algorithm to validate credit card numbers and determine their issuing company (e.g., AMEX, MasterCard, VISA). It analyzes the length and digit pattern of the input to classify or reject the number accordingly. This was completed as part of Harvard's CS50x curriculum.
 
-==Mario (more)==
+== Mario (more) ==
 Mario (more) is a C program that generates a right-aligned pyramid of blocks based on a user-defined height (between 1 and 8), mimicking the classic Nintendo staircase. It uses nested loops and input validation to construct the pyramid with spaces and hashes.
