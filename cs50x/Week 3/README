@@ -1,0 +1,5 @@
+==Plurality==
+Plurality is a C program that implements a simple plurality voting system. It allows for command-line entry of candidate names, records votes from multiple voters, and determines the winner(s) based on who received the most votes. The program handles ties and uses arrays of structs to store candidate data. 
+
+==Runoff==
+Runoff is a C program that simulates a ranked-choice (instant-runoff) election. Voters rank candidates by preference, and the program eliminates the least popular candidates in rounds until a winner emerges with a majority. It dynamically tracks preferences using a 2D array and implements election rules with iterative elimination and vote redistribution.
