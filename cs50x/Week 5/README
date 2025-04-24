@@ -1,0 +1,5 @@
+== Inheritance ==
+Inheritance is a Python program that simulates the inheritance of blood type alleles across generations using recursion. It models each individual as a dictionary with parents and alleles, recursively generating a family tree and randomly assigning alleles to simulate genetic inheritance. This project demonstrates recursion, nested data structures, and probability in genetics.
+
+== Speller ==
+Speller is a C program that implements a dictionary-based spell checker using a hash table for efficient word lookup. It loads a dictionary file into memory, hashes each word, and compares the words in a given text file to identify misspellings. The program emphasizes hash function design, file I/O, and performance optimization in handling large datasets.
